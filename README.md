@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository presents a comparative study between the Adaptive Graph Convolutional Recurrent Network (AGCRN) and Graph WaveNet (GWN) architectures for spatiotemporal forecasting tasks using data from the SUNT dataset. The project investigates the predictive performance, computational behavior, and modeling characteristics of both graph-based deep learning approaches under a unified experimental pipeline.
+This repository presents a comparative study between the Adaptive Graph Convolutional Recurrent Network (AGCRN) and Graph WaveNet (GWN) architectures for spatiotemporal forecasting tasks using data from the SUNT dataset (https://github.com/LabIA-UFBA/SUNT). The project investigates the predictive performance, computational behavior, and modeling characteristics of both graph-based deep learning approaches under a unified experimental pipeline.
 
 ## Repository Content
 
@@ -16,7 +16,6 @@ The comparative analysis focuses on:
 - Robustness  
 - Computational efficiency  
 
-across different spatiotemporal prediction scenarios.
 
 ## Research Objective
 
